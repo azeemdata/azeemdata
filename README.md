@@ -16,9 +16,10 @@ I use this space to share projects, notes, and progress as I work towards my fir
   
 ## 📊 Featured Projects
 
-- **Data Cleaning in SQL** – Global layoffs dataset  
-- **Excel Dashboard** – Global Freelancers  
+- **Data Cleaning with SQL** – Global layoffs dataset
+- **Exploratory Data Analysis with SQL** – Global layoffs dataset  
 - **Power BI Dashboard** – Telco customer churn
+-  **Excel Dashboard** – Global Freelancers 
 
 ## 🔗 Let’s Connect
 
