@@ -24,6 +24,3 @@ I use this space to share projects, notes, and progress as I work towards my fir
 ## 🔗 Let’s Connect
 
 - LinkedIn: https://www.linkedin.com/in/azeem-khan0
-
-# My Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,java,kafka,linux,dynamodb,mysql,py,r,github,postgres,powershell,pytorch,sqlite,selenium,tensorflow,vscode&perline=20)](https://skillicons.dev)
