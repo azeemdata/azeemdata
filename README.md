@@ -10,8 +10,8 @@ I use this space to share projects, notes, and progress as I work towards my fir
 ## 🛠 Skills
 
 - SQL (MySQL, SQL Server)
-- Excel (Pivot Tables, Dashboards)
-- Power BI (Power Query, DAX, Data Modelling)
+- Excel (V/H/XLookup, Conditional Formatting, Pivot Tables/Slicers)
+- Power BI (Dashboards, Power Query, DAX, Data Modelling)
 - Data Cleaning & Analysis
   
 ## 📊 Featured Projects
