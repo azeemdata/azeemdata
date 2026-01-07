@@ -11,9 +11,9 @@ I use this space to share projects, notes, and progress as I work towards my fir
 
 - SQL (MySQL, SQL Server)
 - Excel (Pivot Tables, Dashboards)
-- Power BI (DAX, Data Modelling)
+- Power BI (Power Query, DAX, Data Modelling)
 - Data Cleaning & Analysis
-- 
+  
 ## 📊 Featured Projects
 
 - **Data Cleaning in SQL** – Global layoffs dataset  
