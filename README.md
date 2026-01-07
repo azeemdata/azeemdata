@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I’m Azeem
 
-<!--
-**azeemdata/azeemdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m documenting my data analytics learning journey, focusing on:
+- SQL
+- Excel
+- Power BI
 
-Here are some ideas to get you started:
+I use this space to share projects, notes, and progress as I work towards my first data analyst role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- SQL (MySQL, SQL Server)
+- Excel (Pivot Tables, Dashboards)
+- Power BI (DAX, Data Modelling)
+- Data Cleaning & Analysis
+- 
+## 📊 Featured Projects
+
+- **Data Cleaning in SQL** – Global layoffs dataset  
+- **Excel Dashboard** – Global Freelancers  
+- **Power BI Dashboard** – Telco customer churn
+
+## 🔗 Let’s Connect
+
+- LinkedIn: https://www.linkedin.com/in/azeem-khan0
