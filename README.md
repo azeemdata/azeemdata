@@ -11,7 +11,7 @@ I use this space to share projects, notes, and progress as I work towards my fir
 
 - SQL (MySQL, SQL Server)
 - Excel (V/H/XLookup, Conditional Formatting, Pivot Tables/Slicers)
-- Power BI (Dashboards, Power Query, DAX, Data Modelling)
+- Power BI (Dashboards, Power Query, DAX,)
 - Data Cleaning & Analysis
   
 ## 📊 Featured Projects
