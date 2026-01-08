@@ -18,8 +18,8 @@ I use this space to share projects, notes, and progress as I work towards my fir
 
 - **Data Cleaning with SQL** – Global layoffs dataset
 - **Exploratory Data Analysis with SQL** – Global layoffs dataset  
-- **Power BI Dashboard** – Telco customer churn
--  **Excel Dashboard** – Global Freelancers 
+- **Power BI Dashboard** – Telco customer churn dataset
+-  **Excel Dashboard** – Global Freelancers dataset
 
 ## 🔗 Let’s Connect
 
