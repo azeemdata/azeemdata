@@ -16,10 +16,17 @@ I use this space to share projects, notes, and progress as I work towards my fir
   
 ## 📊 Featured Projects
 
-- **Data Cleaning with SQL** – (sql/data_cleaning.sql)
-- **Exploratory Data Analysis with SQL** – Global layoffs dataset  
-- **Power BI Dashboard** – Telco customer churn dataset
--  **Excel Dashboard** – Global Freelancers dataset
+- **SQL Data Cleaning – Global Layoffs Dataset**  
+  🔗 https://github.com/azeemdata/sql-data-cleaning-layoffs  
+
+- **SQL Exploratory Analysis – Global Layoffs Insights**  
+  🔗 https://github.com/azeemdata/sql-exploratory-data-analysis-layoffs  
+
+- **Power BI Customer Churn Dashboard**  
+  🔗 https://github.com/azeemdata/power-bi-telco-churn-dashboard  
+
+- **Excel Dashboard – Global Freelancers Analysis**  
+  🔗 https://github.com/azeemdata/excel-global-freelancers-dashboard 
 
 ## 🔗 Let’s Connect
 
